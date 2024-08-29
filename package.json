@@ -1,5 +1,5 @@
 {
-  "name": "base-conversion-app",
+  "name": "bin-dec",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {

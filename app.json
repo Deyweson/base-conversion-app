@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "base-conversion-app",
-    "slug": "base-conversion-app",
+    "name": "Bin <-> Dec",
+    "slug": "Bin <-> Dec",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3f75bbd1-e504-491b-a346-85d4112020e3"
+      }
     }
   }
 }
