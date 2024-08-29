@@ -19,14 +19,20 @@ Para o desenvolvimento mobile, utilizei React Native com Expo, o que permitiu cr
 
 Certifique-se de ter a versão mínima do Node.js 16 ou superior instalada.
 
-1. Clone o repositório:
 ```bash
+
    git clone https://github.com/Deyweson/base-conversion-app
+
    cd base-conversion-app
+
    npm install
+
    npm run start # rodar utilizando o expor
+
    npm run android # rodar utilziando o android studio
+
    npm run ios # rodar no ios
+
 ```
 
 ## Contribua com o Projeto
