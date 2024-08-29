@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Bin <-> Dec",
-    "slug": "Bin <-> Dec",
+    "slug": "bin-dec",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anteikhu.bindec"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3f75bbd1-e504-491b-a346-85d4112020e3"
+        "projectId": "1525dc4d-cab2-4066-9fbb-dce3551cf03d"
       }
     }
   }
